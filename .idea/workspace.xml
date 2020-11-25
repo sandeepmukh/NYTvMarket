@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="573136db-4c75-49fe-a555-c44b8e88dc54" name="Default Changelist" comment="" />
+    <list default="true" id="573136db-4c75-49fe-a555-c44b8e88dc54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Data Manipulation.ipynb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
